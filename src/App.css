@@ -1,0 +1,10 @@
+#root {
+  max-width: 500px;
+  margin: auto;
+}
+
+div {
+  background-color: rgb(247, 143, 58);
+  color: white;
+  text-align: center;
+}
